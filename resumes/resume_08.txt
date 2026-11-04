@@ -1,0 +1,9 @@
+Name: Anitha R
+
+Skills: Java, Spring Boot, MySQL
+
+Experience: 3 years as Java Developer.
+
+Education: B.E Electronics.
+
+Developed applications using Spring Boot.

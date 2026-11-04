@@ -1,0 +1,9 @@
+Name: Sneha Reddy
+
+Skills: Excel, SQL, Power BI
+
+Experience: 4 years as Data Analyst.
+
+Education: MBA Analytics.
+
+Created business dashboards using Power BI.

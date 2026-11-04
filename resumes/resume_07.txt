@@ -1,0 +1,9 @@
+Name: Vijay Kumar
+
+Skills: Python, SQL, Data Analysis
+
+Experience: 5 years as Data Analyst.
+
+Education: M.Sc Statistics.
+
+Analyzed business data using Python and SQL.

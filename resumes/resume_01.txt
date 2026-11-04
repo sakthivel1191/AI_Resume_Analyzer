@@ -1,0 +1,9 @@
+Name: Arun Kumar
+
+Skills: Python, SQL, Machine Learning
+
+Experience: 2 years as Python Developer.
+
+Education: B.Tech Computer Science.
+
+Developed Python applications and SQL databases.

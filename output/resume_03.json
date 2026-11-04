@@ -1,0 +1,29 @@
+{
+    "candidate_name": "Rahul Kumar",
+    "skills": [
+        "Python",
+        "Django",
+        "MySQL"
+    ],
+    "years_of_experience": 1,
+    "education": [
+        "BCA."
+    ],
+    "strengths": [],
+    "gaps": [],
+    "skill_evidence": [
+        {
+            "skill": "Python",
+            "evidence": "Skills: Python, Django, MySQL"
+        },
+        {
+            "skill": "Django",
+            "evidence": "Skills: Python, Django, MySQL"
+        },
+        {
+            "skill": "MySQL",
+            "evidence": "Skills: Python, Django, MySQL"
+        }
+    ],
+    "extraction_method": "Python fallback"
+}

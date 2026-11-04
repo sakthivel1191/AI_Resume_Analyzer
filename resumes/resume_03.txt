@@ -1,0 +1,9 @@
+Name: Rahul Kumar
+
+Skills: Python, Django, MySQL
+
+Experience: 1 year as Backend Developer.
+
+Education: BCA.
+
+Built backend applications using Django.

@@ -1,0 +1,9 @@
+Name: Karthik Raj
+
+Skills: C, C++, Python
+
+Experience: 2 years as Software Developer.
+
+Education: B.E Computer Science.
+
+Developed software applications using C++.

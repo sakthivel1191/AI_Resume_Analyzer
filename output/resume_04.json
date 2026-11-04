@@ -1,0 +1,29 @@
+{
+    "candidate_name": "Sneha Reddy",
+    "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+    ],
+    "years_of_experience": 4,
+    "education": [
+        "MBA Analytics."
+    ],
+    "strengths": [],
+    "gaps": [],
+    "skill_evidence": [
+        {
+            "skill": "Excel",
+            "evidence": "Skills: Excel, SQL, Power BI"
+        },
+        {
+            "skill": "SQL",
+            "evidence": "Skills: Excel, SQL, Power BI"
+        },
+        {
+            "skill": "Power BI",
+            "evidence": "Skills: Excel, SQL, Power BI"
+        }
+    ],
+    "extraction_method": "Python fallback"
+}

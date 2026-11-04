@@ -1,0 +1,29 @@
+{
+    "candidate_name": "Arun Kumar",
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+    ],
+    "years_of_experience": 2,
+    "education": [
+        "B.Tech Computer Science."
+    ],
+    "strengths": [],
+    "gaps": [],
+    "skill_evidence": [
+        {
+            "skill": "Python",
+            "evidence": "Skills: Python, SQL, Machine Learning"
+        },
+        {
+            "skill": "SQL",
+            "evidence": "Skills: Python, SQL, Machine Learning"
+        },
+        {
+            "skill": "Machine Learning",
+            "evidence": "Skills: Python, SQL, Machine Learning"
+        }
+    ],
+    "extraction_method": "Python fallback"
+}

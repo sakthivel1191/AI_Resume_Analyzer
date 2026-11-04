@@ -1,0 +1,9 @@
+Name: Divya S
+
+Skills: HTML, CSS, React, JavaScript
+
+Experience: 2 years as Frontend Developer.
+
+Education: B.Tech IT.
+
+Built user interfaces using React.

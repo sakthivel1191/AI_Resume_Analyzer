@@ -1,0 +1,34 @@
+{
+    "candidate_name": "Priya Sharma",
+    "skills": [
+        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "years_of_experience": 3,
+    "education": [
+        "B.Sc Computer Science."
+    ],
+    "strengths": [],
+    "gaps": [],
+    "skill_evidence": [
+        {
+            "skill": "Java",
+            "evidence": "Skills: Java, HTML, CSS, JavaScript"
+        },
+        {
+            "skill": "HTML",
+            "evidence": "Skills: Java, HTML, CSS, JavaScript"
+        },
+        {
+            "skill": "CSS",
+            "evidence": "Skills: Java, HTML, CSS, JavaScript"
+        },
+        {
+            "skill": "JavaScript",
+            "evidence": "Skills: Java, HTML, CSS, JavaScript"
+        }
+    ],
+    "extraction_method": "Python fallback"
+}

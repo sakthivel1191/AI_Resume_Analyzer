@@ -1,0 +1,9 @@
+Name: Priya Sharma
+
+Skills: Java, HTML, CSS, JavaScript
+
+Experience: 3 years as Web Developer.
+
+Education: B.Sc Computer Science.
+
+Developed responsive websites using JavaScript.
